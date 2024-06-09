@@ -1,0 +1,5 @@
+[32mINFO    [0m custom_logger:test_login_ddt.py:13 ************** Test002DDTLogin Started *************
+[32mINFO    [0m custom_logger:test_login_ddt.py:14 ************** Test Login DDT Started *************
+[32mINFO    [0m custom_logger:test_login_ddt.py:32 ************** Scenario 1 Passed *************
+[1m[31mERROR   [0m custom_logger:test_login_ddt.py:41 ************** Scenario 2 Failed *************
+[1m[31mERROR   [0m custom_logger:test_login_ddt.py:42 ************** Test Login DDT Failed *************

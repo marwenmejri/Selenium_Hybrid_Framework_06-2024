@@ -1,0 +1,232 @@
+06-08-2024 09:21:18 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:21:18 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:21:20 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:21:20 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:21:26 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:24:17 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:24:17 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:24:18 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:24:18 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:24:26 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:24:26 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:25:01 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:25:01 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:25:02 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:25:02 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:25:07 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:25:07 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:25:07 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:25:07 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:25:12 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:26:20 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:26:20 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:26:20 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:26:22 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:26:39 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:26:55 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:27:42 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:27:42 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:27:43 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:27:52 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:28:00 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:28:06 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:28:07 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:28:16 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:28:23 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:30:59 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:30:59 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:30:59 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:31:00 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:31:00 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:31:10 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:31:10 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:31:18 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:31:18 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:32:07 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:32:08 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:32:08 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:32:10 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:32:16 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:32:17 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:32:19 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:32:20 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:32:25 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:33:37 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:33:37 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:33:37 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:33:38 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:33:38 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:33:38 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:33:39 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:33:44 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:33:45 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:34:24 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:34:24 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:34:24 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:34:25 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:34:25 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:34:25 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:34:25 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:34:31 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:34:33 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:41:44 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:41:44 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:41:45 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:41:45 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:41:50 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:41:50 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:41:50 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:41:50 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:41:55 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:47:08 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:47:08 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:47:09 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:47:09 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:47:14 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 09:47:14 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:47:14 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:47:14 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:47:19 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 09:51:09 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 09:51:09 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 09:51:10 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 09:51:10 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 09:51:12 AM - custom_logger - test_login.py | ERROR : ************** test_login Failed *************
+06-08-2024 09:51:12 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 09:51:12 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 09:51:12 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 09:51:15 AM - custom_logger - test_login.py | ERROR : ************** test_login1 Failed *************
+06-08-2024 10:42:55 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:42:55 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:42:55 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:42:55 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:42:56 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:42:56 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:42:56 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:42:56 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | ERROR : ************** test_login Failed *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | ERROR : ************** test_login Failed *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:42:57 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:43:00 AM - custom_logger - test_login.py | ERROR : ************** test_login1 Failed *************
+06-08-2024 10:43:00 AM - custom_logger - test_login.py | ERROR : ************** test_login1 Failed *************
+06-08-2024 10:43:03 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:43:03 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:43:03 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:43:03 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:43:09 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-08-2024 10:43:09 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-08-2024 10:43:10 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 2 Passed *************
+06-08-2024 10:43:10 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 2 Passed *************
+06-08-2024 10:43:10 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 3 Passed *************
+06-08-2024 10:43:10 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 3 Passed *************
+06-08-2024 10:43:11 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 4 Passed *************
+06-08-2024 10:43:11 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 4 Passed *************
+06-08-2024 10:46:10 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:46:10 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:46:10 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:46:10 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:46:11 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:46:11 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:46:11 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:46:11 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:46:17 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:46:22 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 10:46:22 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 10:46:28 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:46:28 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:46:28 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:46:28 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:46:47 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-08-2024 10:46:47 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-08-2024 10:46:47 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
+06-08-2024 10:46:47 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
+06-08-2024 10:50:44 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:50:44 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:50:44 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:50:44 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:50:46 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:50:46 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:50:46 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:50:46 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:50:50 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:50:55 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 10:50:55 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 10:50:55 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:50:55 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:50:55 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:50:55 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:53:20 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:53:20 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-08-2024 10:53:20 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:53:20 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-08-2024 10:53:22 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:53:22 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-08-2024 10:53:22 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:53:22 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:53:28 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-08-2024 10:53:33 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 10:53:33 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-08-2024 10:53:39 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:53:39 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-08-2024 10:53:39 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:53:39 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-08-2024 10:53:46 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-08-2024 10:53:46 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-08-2024 10:53:46 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
+06-08-2024 10:53:46 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
+06-08-2024 10:53:46 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed *************
+06-08-2024 10:53:46 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed *************
+06-09-2024 09:04:10 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-09-2024 09:04:10 AM - custom_logger - test_login.py | INFO : ************** Test001Login Started *************
+06-09-2024 09:04:10 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-09-2024 09:04:10 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Started *************
+06-09-2024 09:04:12 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-09-2024 09:04:12 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login Passed *************
+06-09-2024 09:04:12 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-09-2024 09:04:12 AM - custom_logger - test_login.py | INFO : ************** test_login Started *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_login Passed *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Started *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_verify_page_login1 Passed *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-09-2024 09:04:16 AM - custom_logger - test_login.py | INFO : ************** test_login1 Started *************
+06-09-2024 09:04:21 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-09-2024 09:04:21 AM - custom_logger - test_login.py | INFO : ************** test_login1 Passed *************
+06-09-2024 09:04:27 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-09-2024 09:04:27 AM - custom_logger - test_login_ddt.py | INFO : ************** Test002DDTLogin Started *************
+06-09-2024 09:04:27 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-09-2024 09:04:27 AM - custom_logger - test_login_ddt.py | INFO : ************** Test Login DDT Started *************
+06-09-2024 09:04:33 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-09-2024 09:04:33 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
+06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
+06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
+06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed *************
+06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed *************

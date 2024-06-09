@@ -1,0 +1,2 @@
+[32mINFO    [0m custom_logger:test_login.py:63 ************** test_login1 Started *************
+[32mINFO    [0m custom_logger:test_login.py:74 ************** test_login1 Passed *************

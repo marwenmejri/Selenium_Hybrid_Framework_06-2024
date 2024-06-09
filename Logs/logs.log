@@ -228,5 +228,5 @@
 06-09-2024 09:04:33 AM - custom_logger - test_login_ddt.py | INFO : ************** Scenario 1 Passed *************
 06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
 06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Scenario 2 Failed *************
-06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed ******
-06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed ******
+06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed 
+06-09-2024 09:04:34 AM - custom_logger - test_login_ddt.py | ERROR : ************** Test Login DDT Failed 
